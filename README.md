@@ -1,8 +1,6 @@
 <<<<<<< HEAD
 # BSCS-Academic-Vault
-A collection of my academic journey, from fundamental Java logic to advanced OOP and Data Structures.
 =======
-# BSCS Academic Vault
 A collection of my academic journey in Bachelor of Science in Computer Science. This repository tracks my progress from fundamental logic to advanced computing concepts.
 
 ## 📂 Current Progress
