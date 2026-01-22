@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # BSCS-Academic-Vault
 A collection of my academic journey in Bachelor of Science in Computer Science. This repository tracks my progress from fundamental logic to advanced computing concepts.
 
